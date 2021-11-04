@@ -1,0 +1,24 @@
+
+
+.item-add-container{
+    background-color: plum;
+    padding: 40px 0;
+}
+.item-add-container h2{
+    font-weight: 800;
+    color: black;
+    font-family: serif;
+}
+.Items-addition form{
+    display: flex;
+    flex-direction: column;
+   
+}
+.Items-addition input,textarea{
+ width: 50%;
+ margin: auto;
+ margin-top: 15px;
+ border: 2px solid rgb(209, 32, 91);
+ border-radius: 15px;
+ padding-left: 10px;
+}

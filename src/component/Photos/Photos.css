@@ -1,0 +1,21 @@
+
+.photo-container{
+    width: 90%;
+    margin: auto;
+}
+
+.photo-title{
+    margin: 20px 0;
+    color: rgb(13, 13, 182);
+    font-weight: 700;
+    text-transform: uppercase;
+  background-color: plum;
+    margin-bottom: 40px;
+    
+}
+
+.photo-img-title{
+    font-family: serif;
+    font-weight: 600;
+    color: black;
+}

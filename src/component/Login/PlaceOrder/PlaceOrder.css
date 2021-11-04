@@ -1,0 +1,49 @@
+
+
+
+.place-item{
+    color: rgb(228, 9, 228);
+    text-transform: uppercase;
+}
+.place-form-price{
+    background-color: plum;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+   
+}
+.place-form-price p{
+    margin-top: 11px;
+    color: red;
+    font-weight: 700;
+    font-size: 22px;
+}
+
+.placeorder-form-form{
+    margin:  30px 100px;
+}
+.form-container{
+    background-color: plum;
+
+}
+.form-body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+.placeorder-form input {
+    display: block;
+    margin-top: 30px;
+    padding-left: 10px;
+    border: 2px solid black;
+    border-radius: 20px !important;
+    
+    width:  300px;
+    border-radius: 5px;
+}
+.form-place-btn{
+    background-color: rgb(3, 0, 1);
+    color: whitesmoke;
+    border: 2px solid rgb(226, 16, 86) !important;
+}

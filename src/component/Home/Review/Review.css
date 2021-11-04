@@ -1,0 +1,18 @@
+
+
+.review-container{
+    padding: 20px;
+}
+.review-container h2{
+    margin-top: 30px;
+    margin-bottom: 15px;
+    color: rgb(114, 2, 114);
+    text-transform: uppercase;
+    border-bottom: 3px solid purple;
+    
+}
+.review-container h3{
+    color: black;
+    font-size: 22px;
+    font-weight: 700;
+}

@@ -1,0 +1,30 @@
+.footer-container {
+  background-color: #042c2a;
+  color: white;
+}
+.footer-body {
+  width: 90%;
+  margin-left: 20px;
+}
+.footer-info {
+  padding: 10px;
+}
+
+.link {
+  padding: 15px 0;
+}
+.link a {
+  text-decoration: none;
+  margin-right: 10px;
+  color: lightblue;
+}
+.link a {
+  padding: 10px;
+}
+
+.link i {
+  margin-right: 10px;
+  font-size: 25px;
+  border: 2px solid black;
+  margin-top: 10px;
+}

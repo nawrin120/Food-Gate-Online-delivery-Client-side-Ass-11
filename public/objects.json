@@ -1,0 +1,50 @@
+[
+  {
+    "img": "https://i.ibb.co/1XtRr3w/pic-1.jpg",
+    "item": "Linguine with Meatballs",
+    "descriptions": "Spaghetti or any long ribbon pasta,in contrast, is a right palaver. Even if the meatballs are tiny, you have to either a) laboriously mash them into the spaghetti or b) skewer each one and then try to twirl the pasta on to the end of your already laden fork.",
+    "time": "8am -10pm",
+    "price": 275,
+    "delevaryCost": 50
+  },
+  {
+    "img": "https://i.ibb.co/xLHJ8G9/pic-2.jpg",
+    "item": "Burger",
+    "descriptions": "A hamburger is a food, typically considered a sandwich, consisting of one or more cooked patties—usually ground meat, typically beef—placed inside a sliced bread roll or bun. The patty may be pan fried, grilled, smoked or flame broiled.",
+    "time": "8am -10pm",
+    "price": 330,
+    "delevaryCost": 50
+  },
+  {
+    "img": "https://i.ibb.co/232FLJc/pic-3.jpg",
+    "item": "Chicken Burrito",
+    "descriptions": "Burritos are filled with a savory filling, most often  chicken and often include a large array of other ingredients such as rice, cooked beans (either whole or refried), vegetables such as lettuce and tomatoes, cheese, and condiments such as salsa gallo, guacamole.",
+    "time": "8am -10pm",
+    "price": 469,
+    "delevaryCost": 50
+  },
+  {
+    "img": "https://i.ibb.co/4tJh04Q/pic-4.jpg",
+    "item": "The Perfect Meatball Sandwich",
+    "descriptions": "Our setup is huge homes, one hundred maize. As far as food and drinks, we have all of them.For the garlic-white wine sauce,used a mini bottle of pinot. The brightness of the citrus notes in this wine balance out the richness from the cream and the meatballs themselves.",
+    "time": "8am -10pm",
+    "price": 300,
+    "delevaryCost": 50
+  },
+  {
+    "img": "https://i.ibb.co/SNKY6nV/pic-5.jpg",
+    "item": "kacchi biryani",
+    "descriptions": "Kacchi Mutton Biryani is a delicious rice dish where tender goat or lamb meat pieces are marinated with lots of fried onions, whole spices, fresh herbs and yoghurt.In order to provide a balanced diet to the soldiers, she asked the chefs to prepare dish with meat and rice",
+    "time": "8am -10pm",
+    "price": 399,
+    "delevaryCost": 50
+  },
+  {
+    "img": "https://i.ibb.co/ngxJRG0/pic-6.jpg",
+    "item": "Samosa",
+    "descriptions": "A samosa is a South Asian fried or baked pastry with a savory filling like spiced potatoes, onions, peas, chicken and other meats, or lentils. It may take different forms, including triangular, cone, or half-moon shapes, depending on the region.",
+    "time": "8am -10pm",
+    "delevaryCost": 25,
+    "price": 60
+  }
+]

@@ -1,0 +1,11 @@
+#items{
+    background-color: rgb(255, 235, 205);
+    padding-bottom: 30px;
+}
+#items h2{
+    padding: 30px;
+    color: black;
+    font-size: 30px;
+    font-family: serif;
+    font-weight: 800;
+}
