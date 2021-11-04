@@ -1,6 +1,8 @@
 # FoodGate Home Delivery
 
-## Meet your cravings with FoodGate !! sm123@gmail.com, owned and operated by SM Limited, is a premium online and on-demand service provider committed to make your life convenient, easier and smarter.
+## Meet your cravings with FoodGate !!
+
+sm123@gmail.com, owned and operated by SM Limited, is a premium online and on-demand service provider committed to make your life convenient, easier and smarter.
 
 client Server Live Link : []()
 
