@@ -22,9 +22,9 @@ const AddItems = () => {
                     <textarea {...register("descriptions")} placeholder='Description' />
                     <input type="text" {...register("time")} placeholder='Time' />
                     <input type="number" {...register("price")} placeholder='Cost' />
-                    <input type="number" {...register("delevaryCost")} placeholder='Delevary Cost' />
+                    <input type="number" {...register("delevaryCost")} placeholder='Delivery Cost' />
 
-                    <input type="submit" />
+                    <input type="Submit" className='fs-5 fw-bold' />
                 </form>
             </div>
         </div>

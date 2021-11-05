@@ -11,7 +11,7 @@ const Items = () => {
     }, [])
     return (
         <div id='items'>
-            <h2>Our Delious Items</h2>
+            <h2>Our Delicious Items</h2>
             <div className="row row-cols-1 row-cols-md-3 px-4 g-4 ">
                 {
                     items.map(item => <Item

@@ -1,12 +1,48 @@
+.naming {
+  color: rgb(72, 10, 56);
+  font-weight: 700;
+  font-family: cursive;
+}
+.contact-input {
+  padding-top: 20px;
+}
+.contact-input h3 {
+  margin-bottom: 10px;
+}
+.contact-input input {
+  width: 70%;
+  display: block;
+  margin-bottom: 10px;
+}
+.contact {
+  background-color: rgb(253, 240, 252);
+}
+.icons {
+  padding-bottom: 30px;
+}
+.icons-item {
+  /* color: rgb(4, 87, 87); */
+  padding: 20px;
+  font-size: xx-large;
+}
+#youtube {
+  color: red;
+}
+#twitter {
+  color: rgb(11, 78, 138);
+}
+.form-item {
+  padding-left: 9px;
 
-.contact-input{
-    padding-top: 20px;
+  border-radius: 5px;
 }
-.contact-input h3{
-    margin-bottom: 10px;
+.form {
+  background-color: azure;
+  border-radius: 12px;
+  box-shadow: 1px 2px rgb(88, 85, 85);
 }
-.contact-input input{
-    width: 70%;
-    display: block;
-    margin-bottom: 10px;
+.side-mark {
+  margin-bottom: 20px;
+  border-radius: 20px;
+  box-shadow: 4px 5px rgb(6, 48, 63);
 }

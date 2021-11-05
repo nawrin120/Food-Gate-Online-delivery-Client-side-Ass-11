@@ -12,9 +12,13 @@ const Header = () => {
         <div>
             <Navbar className="heading" sticky="top" collapseOnSelect expand="lg" variant="dark">
                 <Container>
-                    <Navbar.Brand href="#home" className='logo'><img className='nav-logo' src="images/lg.png" alt="" /> Food <span>GaTe</span></Navbar.Brand>
+                    <Navbar.Brand href="#home" className='logo'><img className='nav-logo' src="images/lg.png" alt="" /> 
+                    <span className="main-name p-2 m-2">
+                    FoodGaTe
+                    </span>
+                    </Navbar.Brand>
                     <Navbar.Toggle />
-                    <Navbar.Collapse className="justify-content-end">
+                    <Navbar.Collapse className="me-5 justify-content-end">
                         <Nav className="ms-auto ">
                             <Nav.Link as={HashLink} to="/home#home" className='nav-icon'>Home</Nav.Link>
                             <Nav.Link as={HashLink} to="/items#items" className='nav-icon'>Items</Nav.Link>
@@ -22,7 +26,7 @@ const Header = () => {
                             <Nav.Link as={HashLink} to="/album" className='nav-icon'>Photo Albums</Nav.Link>
                             <Nav.Link as={HashLink} to="/contact" className='nav-icon'>Contact Us</Nav.Link>
 
-                            <NavDropdown title={<i className="fas fa-user"></i>} id="navbarScrollingDropdown">
+                            <NavDropdown title={<i className="fas fa-user"></i>} id="navbarScrollingDropdown" className='drop-container'>
                                 <div className='drop-body'>
                                     <NavDropdown.Item as={HashLink} to="/itemaddition" className='nav-icon drop-item'>Add A New Service</NavDropdown.Item>
                                     <NavDropdown.Item as={HashLink} to="/order" className='nav-icon drop-item'>My Orders</NavDropdown.Item>
@@ -37,7 +41,7 @@ const Header = () => {
                                         {
                                             user?.email ?
                                                 <Nav.Link as={Link} to="/login"> <button className='log-icon' onClick={logOut}><i className="fas fa-sign-in-alt"></i> Log Out
-                                                </button><br />  <Navbar.Text className='signed-user text-warning'>
+                                                </button><br />  <Navbar.Text className='signed-user fw-bolder text-success'>
                                                         {user?.displayName}
                                                     </Navbar.Text> </Nav.Link>
                                                 :

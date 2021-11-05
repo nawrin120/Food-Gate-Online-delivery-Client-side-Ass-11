@@ -1,4 +1,21 @@
-
-.log-ggl img{
-width: 60px;
+.google-log img {
+  width: 50px;
+}
+.google-log {
+  font-weight: 700;
+  font-size: large;
+  background-color: bisque;
+  margin-bottom: 25px;
+}
+.head-two {
+  color: #6a0725;
+  margin-top: 30px;
+  font-style: oblique;
+  font-weight: 700;
+}
+.login-title {
+  color: rgb(110, 8, 80);
+  font-weight: 800;
+  font-size: 60px;
+  text-shadow: 2px 3px rgb(129, 129, 148);
 }

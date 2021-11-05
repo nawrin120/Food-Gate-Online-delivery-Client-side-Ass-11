@@ -27,10 +27,12 @@ const Login = () => {
 
     return (
         <div>
-            <div className='login-contailer'>
-                <h2 className='login-title pt-5'>Enjoy Food <span>GeaT</span></h2>
+            <div className='login-container'>
+
+                <h1 className='login-title pt-5 main-name'>Enjoy FoodGaTe</h1>
+                <h2 className='head-two'>Food delivery from best restaurants in Dhaka</h2>
                 <img className='login-logo my-5' src="images/lg.png" alt="" />
-                <button className='log-ggl' onClick={handleLogIn}><img className='google' src="https://i.ibb.co/JcYqDsN/ggll.png" alt="" /> Login With Google</button>
+                <button className='google-log' onClick={handleLogIn}><img className='google' src="https://i.ibb.co/JcYqDsN/ggll.png" alt="" /> Login With Google</button>
 
 
             </div>

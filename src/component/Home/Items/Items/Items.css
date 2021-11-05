@@ -1,11 +1,13 @@
-#items{
-    background-color: rgb(255, 235, 205);
-    padding-bottom: 30px;
+#items {
+  /* background-color: rgb(255, 235, 205); */
+  padding-bottom: 30px;
+  width: 95%;
+  margin: auto;
 }
-#items h2{
-    padding: 30px;
-    color: black;
-    font-size: 30px;
-    font-family: serif;
-    font-weight: 800;
+#items h2 {
+  padding: 30px;
+  color: black;
+  font-size: 30px;
+  font-family: serif;
+  font-weight: 800;
 }

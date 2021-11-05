@@ -9,7 +9,7 @@ const whyUs = () => {
             <div className="row safety-body">
                 <div className="col-sm-6 mt-4">
                     <div className="card">
-                        <div className="card-body safty">
+                        <div className="card-body safety">
                             <div> <i className="fas fa-head-side-mask"></i></div>
                             <div>
                                 <p>Ensuring</p>
@@ -21,7 +21,7 @@ const whyUs = () => {
                 </div>
                 <div className="col-sm-6 mt-4">
                     <div className="card">
-                        <div className="card-body safty">
+                        <div className="card-body safety">
                             <div><i className="fas fa-phone-volume"></i></div>
                             <div>
                                 <p>24/7</p>
@@ -32,7 +32,7 @@ const whyUs = () => {
                 </div>
                 <div className="col-sm-6  mt-4">
                     <div className="card">
-                        <div className="card-body safty">
+                        <div className="card-body safety">
                             <div><i className="fas fa-pump-soap"></i></div>
                             <div>
                                 <p>Sanitising Hands</p>
@@ -43,7 +43,7 @@ const whyUs = () => {
                 </div>
                 <div className="col-sm-6  my-4">
                     <div className="card">
-                        <div className="card-body safty">
+                        <div className="card-body safety">
                             <div><i className="fas fa-hands-wash"></i></div>
                             <div>
                                 <p>Ensuring </p>

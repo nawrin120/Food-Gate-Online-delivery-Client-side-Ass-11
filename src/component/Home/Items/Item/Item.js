@@ -17,10 +17,10 @@ const Item = (props) => {
                 </div>
 
                 <div class="card-footer item-footer">
-                    <p className='item-cost'>Cost : {price}</p> <span>Delivary Cost : {delevaryCost}</span>
+                    <p className='item-cost'>Cost : {price}</p> <span>Delivery Cost : {delevaryCost}</span>
 
                     <Link to={`/placeorder/${_id}`}>
-                        <button className='mb-3 booking-btn'>Order Now</button>
+                        <button className='mb-3 booking-btn rounded-3'>Order Now</button>
                     </Link>
                 </div>
             </div>

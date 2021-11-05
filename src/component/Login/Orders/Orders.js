@@ -2,6 +2,7 @@ import React, { useEffect, useState } from 'react';
 import useAuth from '../../../hooks/useAuth';
 import ManageOrder from '../ManageOrder/ManageOrder';
 import MyOrder from '../MyOrder/MyOrder';
+import './Orders.css'
 
 const Orders = () => {
 
@@ -42,8 +43,8 @@ const Orders = () => {
 
 
     return (
-        <div className="">
-            <div className="all-order">
+        <div className="all-order">
+            <div>
                 <h2 className='orders-title my-4'>My Orders</h2>
                 <div className="row row-cols-1 row-cols-md-3 g-4 px-4">
                     {

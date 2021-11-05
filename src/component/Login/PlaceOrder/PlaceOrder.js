@@ -53,7 +53,7 @@ const PlaceOrder = () => {
         <div className='w-75 mx-auto py-4'>
             <h2>Thank You : {user.displayName}</h2>
             <p>You are Ordering : {item.item}</p>
-            <p>Please Give Your Infromation and click on submit Button.</p>
+            <p>Please Give Your Information and click on submit Button.</p>
             <div className='row row-cols-1 row-cols-md-2 g-4 mt-4"'>
                 <div className="col">
                     <div className='card'>
